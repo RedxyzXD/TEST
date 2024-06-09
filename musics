@@ -10656,5 +10656,29 @@
     "fillerSec": 9.036700248718262,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
+  },
+{
+    "id": 505,
+    "seq": 1143221,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "I kno332.",
+    "pronunciation": "323232",
+    "creatorArtistId": 244,
+    "lyricist": "32",
+    "composer": "吉田夜3世",
+    "arranger": "吉田夜22世",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_504",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 171618324800000,
+    "releasedAt": 170654043200000,
+    "liveStageId": 1,
+    "fillerSec": 9.036700248718262,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
   }
 ]
